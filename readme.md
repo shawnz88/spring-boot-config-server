@@ -8,7 +8,7 @@
 * Protect git repository password with encryption
 * Protect access to Spring Boot Config Server with basic authentication
 * Store secrets in git repository encrypted
-* Optionally: protect access to Spring Boot Config Server with AD/Ldap credentials
+* Optional: protect access to Spring Boot Config Server with AD/Ldap credentials
 
 ## The CloudIDE
 
